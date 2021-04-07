@@ -16,8 +16,8 @@ We are done with the bottom..<br>
    1   1   1   0   1<br>
    1   0   0   0   1<br>
    1   1   1   1   1<br>
-   <br>
-   2)   N = 6.<br>
+<br>
+2)   N = 6.<br>
 ------------------------------------------------------<br>
 [0,0]  [0,1]  [0,2]  [0,3]  [0,4]  [0,5]  We are done with the right..<br>
 [1,5]  [2,5]  [3,5]  [4,5]  [5,5]  We are done with the bottom..<br>
