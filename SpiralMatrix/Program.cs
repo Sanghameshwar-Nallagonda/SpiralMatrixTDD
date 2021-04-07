@@ -10,7 +10,7 @@ namespace SpiralMatrix
         {
             SpiralMatrix.TDDExample.SpiralMatrix test = new SpiralMatrix.TDDExample.SpiralMatrix();
             test.MatrixSize = 5;
-            for (int i = 5; i <= 5; i++)
+            for (int i = 5; i <= 10; i++)
             {
                 test.MatrixSize = i;
                 int[,] matrix = test.ComputeMatrix();
