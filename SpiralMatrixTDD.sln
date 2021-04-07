@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{A1173A83-A007-4117-97BA-FBAD9C27094B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiralMatrixTest", "SpiralTestTDD\SpiralMatrixTest.csproj", "{D93BC861-9C37-4D32-AC52-F4056D3B54C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1173A83-A007-4117-97BA-FBAD9C27094B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1173A83-A007-4117-97BA-FBAD9C27094B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1173A83-A007-4117-97BA-FBAD9C27094B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1173A83-A007-4117-97BA-FBAD9C27094B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93BC861-9C37-4D32-AC52-F4056D3B54C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93BC861-9C37-4D32-AC52-F4056D3B54C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93BC861-9C37-4D32-AC52-F4056D3B54C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93BC861-9C37-4D32-AC52-F4056D3B54C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8BBEE1-A520-45EF-A334-6313D9E936A6}
+	EndGlobalSection
+EndGlobal
